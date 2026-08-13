@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "company_type": "private",
+  "primary_industry": "ai",
+  "companies": [
+    {
+      "id": "baidu",
+      "name": "百度",
+      "english_name": "Baidu",
+      "company_type": "private",
+      "primary_industry": "ai",
+      "industry_tags": ["internet_platform", "search", "cloud_computing", "autonomous_driving"],
+      "official_site_url": "https://www.baidu.com/",
+      "company_intro_url": "https://home.baidu.com/",
+      "company_intro_summary": "百度招聘官网展示其移动生态、智能云、基础模型和智能驾驶等业务，并将文心大模型列为 AI 技术核心能力。",
+      "career_url": "https://talent.baidu.com/jobs/social-list",
+      "career_scope": "social_and_campus",
+      "parser_strategy": ["STATIC_HTML", "EMBEDDED_JSON"],
+      "verification_status": "pending_terms",
+      "verified_at": "2026-08-10T00:00:00Z",
+      "verification_evidence": [
+        {
+          "url": "https://talent.baidu.com/jobs/social-list",
+          "kind": "official_career",
+          "http_status": 200,
+          "final_url": "https://talent.baidu.com/jobs/social-list",
+          "checked_at": "2026-08-10T00:00:00Z",
+          "notes": "页面显示百度招聘品牌、社会招聘职位数量、职位名称、职位 ID、地点、类别、人数、日期和职责字段；页脚链接到 home.baidu.com。"
+        },
+        {
+          "url": "https://talent.baidu.com/jobs",
+          "kind": "official_intro",
+          "http_status": 200,
+          "final_url": "https://talent.baidu.com/jobs",
+          "checked_at": "2026-08-10T00:00:00Z",
+          "notes": "官方招聘页面提供百度业务介绍，覆盖智能云、基础模型、智能驾驶和移动生态。"
+        }
+      ],
+      "notes": "招聘页面已确认可公开浏览；自动采集前仍需核验 robots、服务条款和请求频率。"
+    },
+    {
+      "id": "moonshot-ai",
+      "name": "月之暗面",
+      "english_name": "Moonshot AI",
+      "company_type": "private",
+      "primary_industry": "ai",
+      "industry_tags": ["foundation_model", "generative_ai", "ai_application"],
+      "official_site_url": "https://www.moonshot.cn/",
+      "company_intro_url": "https://www.moonshot.cn/",
+      "company_intro_summary": "Moonshot AI 官网将公司目标描述为寻求将能源转化为智能的最优解，并展示 Kimi、大模型研究和 AI 应用能力。",
+      "career_url": "https://careers.kimi.com/",
+      "career_scope": "unknown",
+      "parser_strategy": ["ATS_LINK_DISCOVERY"],
+      "verification_status": "pending_terms",
+      "verified_at": "2026-08-10T00:00:00Z",
+      "verification_evidence": [
+        {
+          "url": "https://www.moonshot.cn/",
+          "kind": "official_home",
+          "http_status": 200,
+          "final_url": "https://www.moonshot.cn/",
+          "checked_at": "2026-08-10T00:00:00Z",
+          "notes": "官网页头和页脚均提供“加入我们”链接，明确跳转到 https://careers.kimi.com/；页面备案主体为北京月之暗面科技有限公司。"
+        },
+        {
+          "url": "https://careers.kimi.com/",
+          "kind": "official_career",
+          "http_status": 200,
+          "final_url": "https://careers.kimi.com/",
+          "checked_at": "2026-08-10T00:00:00Z",
+          "notes": "招聘域名由 Moonshot AI 官网明确链接，归属和可达性已确认；页面内容、robots 和自动采集条款仍需单独复核。"
+        }
+      ],
+      "notes": "不能用 Kimi 产品站岗位推断真实招聘状态，启用前需核验招聘页面范围、robots 和条款。"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "company_type": "state_owned",
+  "primary_industry": "telecom_cloud",
+  "companies": [
+    {
+      "id": "china-telecom",
+      "name": "中国电信",
+      "english_name": "China Telecom",
+      "company_type": "state_owned",
+      "ownership_tags": ["central_state_owned"],
+      "primary_industry": "telecom_cloud",
+      "industry_tags": ["telecommunications", "cloud_computing", "digital_infrastructure", "cyber_security"],
+      "official_site_url": "https://www.chinatelecom.com.cn/",
+      "company_intro_url": "https://www.chinatelecom.com.cn/ct/zp/165144.html",
+      "company_intro_summary": "中国电信官方公告将其定义为国有特大型通信骨干企业和全业务综合智能信息服务运营商，实施云改数转智惠战略。",
+      "career_url": "https://www.chinatelecom.com.cn/ct/zp/",
+      "career_scope": "social_and_campus",
+      "parser_strategy": ["STATIC_HTML_ANNOUNCEMENT", "MANUAL_SUBMISSION"],
+      "verification_status": "pending_terms",
+      "verified_at": "2026-08-10T00:00:00Z",
+      "verification_evidence": [
+        {
+          "url": "https://www.chinatelecom.com.cn/ct/zp/165144.html",
+          "kind": "official_announcement",
+          "http_status": 200,
+          "final_url": "https://www.chinatelecom.com.cn/ct/zp/165144.html",
+          "checked_at": "2026-08-10T00:00:00Z",
+          "notes": "中国电信官方域名发布 2026 年度校园招聘公告，含公司介绍、招聘单位、岗位类别、地点和流程。"
+        },
+        {
+          "url": "https://www.chinatelecom.com.cn/ct/zp/",
+          "kind": "official_career",
+          "http_status": 412,
+          "final_url": "https://www.chinatelecom.com.cn/ct/zp/",
+          "checked_at": "2026-08-10T00:00:00Z",
+          "notes": "官方“招贤纳士”栏目在普通命令行 HTTP 校验中返回 412；具体官方公告可读取。不得尝试绕过访问策略，应以公开公告发现和人工复核为主。"
+        }
+      ],
+      "notes": "具体集团官网公告可作为低频职位发现来源；招聘栏目存在 412 访问策略，不做自动绕过。集团自建投递站与第三方合作网投递链接需要逐公告确认，不能统一猜测。"
+    }
+  ]
+}

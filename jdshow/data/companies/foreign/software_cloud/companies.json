@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "company_type": "foreign",
+  "primary_industry": "software_cloud",
+  "companies": [
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "english_name": "Microsoft",
+      "company_type": "foreign",
+      "primary_industry": "software_cloud",
+      "industry_tags": ["enterprise_software", "cloud_computing", "artificial_intelligence", "developer_tools"],
+      "official_site_url": "https://www.microsoft.com/",
+      "company_intro_url": "https://www.microsoft.com/en-us/about",
+      "company_intro_summary": "Microsoft 官方招聘内容以赋能全球每个人和每个组织取得更多成就为使命，并在大中华区招聘云服务、软件工程和 AI 等岗位。",
+      "career_url": "https://careers.microsoft.com/v2/global/en/locations/gcr.html",
+      "career_scope": "social_and_campus",
+      "career_regions": ["Greater China Region", "Beijing", "Shanghai", "Suzhou", "Shenzhen"],
+      "parser_strategy": ["EMBEDDED_JSON", "ATS_LINK_DISCOVERY"],
+      "verification_status": "pending_terms",
+      "verified_at": "2026-08-10T00:00:00Z",
+      "verification_evidence": [
+        {
+          "url": "https://careers.microsoft.com/v2/global/en/locations/gcr.html",
+          "kind": "official_career",
+          "http_status": 200,
+          "final_url": "https://careers.microsoft.com/v2/global/en/locations/gcr.html",
+          "checked_at": "2026-08-10T00:00:00Z",
+          "notes": "Microsoft Careers 官方大中华区页面可见职位名称、发布日期、地点、办公模式、职责和资格要求。"
+        },
+        {
+          "url": "https://careers.microsoft.com/professionals/us/en/l-beijing",
+          "kind": "official_career",
+          "http_status": 200,
+          "final_url": "https://careers.microsoft.com/professionals/us/en/l-beijing",
+          "checked_at": "2026-08-10T00:00:00Z",
+          "notes": "官方北京地点页说明 Microsoft 中国总部及亚太研发集团业务，并展示北京及其他中国城市职位。"
+        }
+      ],
+      "notes": "网站原演示数据使用的 jobs.careers.microsoft.com 已更正为当前可验证的 careers.microsoft.com 官方入口。自动采集前需复核条款、robots 和动态页面接口。"
+    }
+  ]
+}

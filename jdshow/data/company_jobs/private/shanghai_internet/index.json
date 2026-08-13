@@ -1,0 +1,1510 @@
+{
+  "schema_version": "1.0",
+  "scope": "上海互联网与科技民营公司候选池",
+  "company_type": "private",
+  "primary_industry": "shanghai_internet",
+  "count": 300,
+  "data_status": "candidate_pending_verification",
+  "companies": [
+    {
+      "company_id": "001-company-001",
+      "company_name": "阿里巴巴",
+      "file": "001-company-001.json"
+    },
+    {
+      "company_id": "002-company-002",
+      "company_name": "腾讯",
+      "file": "002-company-002.json"
+    },
+    {
+      "company_id": "003-company-003",
+      "company_name": "字节跳动",
+      "file": "003-company-003.json"
+    },
+    {
+      "company_id": "004-company-004",
+      "company_name": "美团",
+      "file": "004-company-004.json"
+    },
+    {
+      "company_id": "005-company-005",
+      "company_name": "京东",
+      "file": "005-company-005.json"
+    },
+    {
+      "company_id": "006-company-006",
+      "company_name": "小米",
+      "file": "006-company-006.json"
+    },
+    {
+      "company_id": "007-company-007",
+      "company_name": "快手",
+      "file": "007-company-007.json"
+    },
+    {
+      "company_id": "008-company-008",
+      "company_name": "网易",
+      "file": "008-company-008.json"
+    },
+    {
+      "company_id": "009-company-009",
+      "company_name": "拼多多",
+      "file": "009-company-009.json"
+    },
+    {
+      "company_id": "010-company-010",
+      "company_name": "小红书",
+      "file": "010-company-010.json"
+    },
+    {
+      "company_id": "011-company-011",
+      "company_name": "滴滴",
+      "file": "011-company-011.json"
+    },
+    {
+      "company_id": "012-company-012",
+      "company_name": "携程",
+      "file": "012-company-012.json"
+    },
+    {
+      "company_id": "013-company-013",
+      "company_name": "科大讯飞",
+      "file": "013-company-013.json"
+    },
+    {
+      "company_id": "014-company-014",
+      "company_name": "商汤科技",
+      "file": "014-company-014.json"
+    },
+    {
+      "company_id": "015-company-015",
+      "company_name": "旷视科技",
+      "file": "015-company-015.json"
+    },
+    {
+      "company_id": "016-ai",
+      "company_name": "智谱AI",
+      "file": "016-ai.json"
+    },
+    {
+      "company_id": "017-company-017",
+      "company_name": "零一万物",
+      "file": "017-company-017.json"
+    },
+    {
+      "company_id": "018-minimax",
+      "company_name": "MiniMax",
+      "file": "018-minimax.json"
+    },
+    {
+      "company_id": "019-company-019",
+      "company_name": "百川智能",
+      "file": "019-company-019.json"
+    },
+    {
+      "company_id": "020-deepseek",
+      "company_name": "DeepSeek",
+      "file": "020-deepseek.json"
+    },
+    {
+      "company_id": "021-company-021",
+      "company_name": "得物",
+      "file": "021-company-021.json"
+    },
+    {
+      "company_id": "022-company-022",
+      "company_name": "哈啰",
+      "file": "022-company-022.json"
+    },
+    {
+      "company_id": "023-company-023",
+      "company_name": "货拉拉",
+      "file": "023-company-023.json"
+    },
+    {
+      "company_id": "024-company-024",
+      "company_name": "叮咚买菜",
+      "file": "024-company-024.json"
+    },
+    {
+      "company_id": "025-company-025",
+      "company_name": "每日优鲜",
+      "file": "025-company-025.json"
+    },
+    {
+      "company_id": "026-company-026",
+      "company_name": "盒马",
+      "file": "026-company-026.json"
+    },
+    {
+      "company_id": "027-b",
+      "company_name": "B站",
+      "file": "027-b.json"
+    },
+    {
+      "company_id": "028-company-028",
+      "company_name": "知乎",
+      "file": "028-company-028.json"
+    },
+    {
+      "company_id": "029-company-029",
+      "company_name": "豆瓣",
+      "file": "029-company-029.json"
+    },
+    {
+      "company_id": "030-company-030",
+      "company_name": "喜马拉雅",
+      "file": "030-company-030.json"
+    },
+    {
+      "company_id": "031-company-031",
+      "company_name": "映客",
+      "file": "031-company-031.json"
+    },
+    {
+      "company_id": "032-company-032",
+      "company_name": "陌陌",
+      "file": "032-company-032.json"
+    },
+    {
+      "company_id": "033-company-033",
+      "company_name": "虎牙",
+      "file": "033-company-033.json"
+    },
+    {
+      "company_id": "034-company-034",
+      "company_name": "斗鱼",
+      "file": "034-company-034.json"
+    },
+    {
+      "company_id": "035-yy",
+      "company_name": "YY",
+      "file": "035-yy.json"
+    },
+    {
+      "company_id": "036-company-036",
+      "company_name": "同程旅行",
+      "file": "036-company-036.json"
+    },
+    {
+      "company_id": "037-company-037",
+      "company_name": "去哪儿",
+      "file": "037-company-037.json"
+    },
+    {
+      "company_id": "038-company-038",
+      "company_name": "马蜂窝",
+      "file": "038-company-038.json"
+    },
+    {
+      "company_id": "039-company-039",
+      "company_name": "途牛",
+      "file": "039-company-039.json"
+    },
+    {
+      "company_id": "040-company-040",
+      "company_name": "车好多",
+      "file": "040-company-040.json"
+    },
+    {
+      "company_id": "041-company-041",
+      "company_name": "瓜子二手车",
+      "file": "041-company-041.json"
+    },
+    {
+      "company_id": "042-company-042",
+      "company_name": "优信",
+      "file": "042-company-042.json"
+    },
+    {
+      "company_id": "043-company-043",
+      "company_name": "曹操出行",
+      "file": "043-company-043.json"
+    },
+    {
+      "company_id": "044-t3",
+      "company_name": "T3出行",
+      "file": "044-t3.json"
+    },
+    {
+      "company_id": "045-company-045",
+      "company_name": "如祺出行",
+      "file": "045-company-045.json"
+    },
+    {
+      "company_id": "046-company-046",
+      "company_name": "安能物流",
+      "file": "046-company-046.json"
+    },
+    {
+      "company_id": "047-company-047",
+      "company_name": "满帮",
+      "file": "047-company-047.json"
+    },
+    {
+      "company_id": "048-company-048",
+      "company_name": "极兔速递",
+      "file": "048-company-048.json"
+    },
+    {
+      "company_id": "049-company-049",
+      "company_name": "顺丰科技",
+      "file": "049-company-049.json"
+    },
+    {
+      "company_id": "050-company-050",
+      "company_name": "菜鸟网络",
+      "file": "050-company-050.json"
+    },
+    {
+      "company_id": "051-company-051",
+      "company_name": "圆通速递",
+      "file": "051-company-051.json"
+    },
+    {
+      "company_id": "052-company-052",
+      "company_name": "申通快递",
+      "file": "052-company-052.json"
+    },
+    {
+      "company_id": "053-company-053",
+      "company_name": "韵达科技",
+      "file": "053-company-053.json"
+    },
+    {
+      "company_id": "054-company-054",
+      "company_name": "跨越速运",
+      "file": "054-company-054.json"
+    },
+    {
+      "company_id": "055-company-055",
+      "company_name": "云集",
+      "file": "055-company-055.json"
+    },
+    {
+      "company_id": "056-company-056",
+      "company_name": "贝壳找房",
+      "file": "056-company-056.json"
+    },
+    {
+      "company_id": "057-company-057",
+      "company_name": "链家",
+      "file": "057-company-057.json"
+    },
+    {
+      "company_id": "058-company-058",
+      "company_name": "自如",
+      "file": "058-company-058.json"
+    },
+    {
+      "company_id": "059-company-059",
+      "company_name": "房多多",
+      "file": "059-company-059.json"
+    },
+    {
+      "company_id": "060-company-060",
+      "company_name": "蛋壳公寓",
+      "file": "060-company-060.json"
+    },
+    {
+      "company_id": "061-boss",
+      "company_name": "BOSS直聘",
+      "file": "061-boss.json"
+    },
+    {
+      "company_id": "062-company-062",
+      "company_name": "猎聘",
+      "file": "062-company-062.json"
+    },
+    {
+      "company_id": "063-company-063",
+      "company_name": "前程无忧",
+      "file": "063-company-063.json"
+    },
+    {
+      "company_id": "064-company-064",
+      "company_name": "智联招聘",
+      "file": "064-company-064.json"
+    },
+    {
+      "company_id": "065-company-065",
+      "company_name": "脉脉",
+      "file": "065-company-065.json"
+    },
+    {
+      "company_id": "066-company-066",
+      "company_name": "拉勾",
+      "file": "066-company-066.json"
+    },
+    {
+      "company_id": "067-company-067",
+      "company_name": "猿辅导",
+      "file": "067-company-067.json"
+    },
+    {
+      "company_id": "068-company-068",
+      "company_name": "作业帮",
+      "file": "068-company-068.json"
+    },
+    {
+      "company_id": "069-1-1",
+      "company_name": "掌门1对1",
+      "file": "069-1-1.json"
+    },
+    {
+      "company_id": "070-company-070",
+      "company_name": "学而思",
+      "file": "070-company-070.json"
+    },
+    {
+      "company_id": "071-company-071",
+      "company_name": "流利说",
+      "file": "071-company-071.json"
+    },
+    {
+      "company_id": "072-company-072",
+      "company_name": "沪江",
+      "file": "072-company-072.json"
+    },
+    {
+      "company_id": "073-company-073",
+      "company_name": "得到",
+      "file": "073-company-073.json"
+    },
+    {
+      "company_id": "074-company-074",
+      "company_name": "樊登读书",
+      "file": "074-company-074.json"
+    },
+    {
+      "company_id": "075-company-075",
+      "company_name": "火花思维",
+      "file": "075-company-075.json"
+    },
+    {
+      "company_id": "076-company-076",
+      "company_name": "编程猫",
+      "file": "076-company-076.json"
+    },
+    {
+      "company_id": "077-company-077",
+      "company_name": "一起教育",
+      "file": "077-company-077.json"
+    },
+    {
+      "company_id": "078-company-078",
+      "company_name": "微念科技",
+      "file": "078-company-078.json"
+    },
+    {
+      "company_id": "079-company-079",
+      "company_name": "三顿半",
+      "file": "079-company-079.json"
+    },
+    {
+      "company_id": "080-company-080",
+      "company_name": "喜茶",
+      "file": "080-company-080.json"
+    },
+    {
+      "company_id": "081-company-081",
+      "company_name": "奈雪的茶",
+      "file": "081-company-081.json"
+    },
+    {
+      "company_id": "082-company-082",
+      "company_name": "瑞幸咖啡",
+      "file": "082-company-082.json"
+    },
+    {
+      "company_id": "083-company-083",
+      "company_name": "名创优品",
+      "file": "083-company-083.json"
+    },
+    {
+      "company_id": "084-company-084",
+      "company_name": "完美日记",
+      "file": "084-company-084.json"
+    },
+    {
+      "company_id": "085-company-085",
+      "company_name": "花西子",
+      "file": "085-company-085.json"
+    },
+    {
+      "company_id": "086-company-086",
+      "company_name": "逸仙电商",
+      "file": "086-company-086.json"
+    },
+    {
+      "company_id": "087-company-087",
+      "company_name": "宝尊电商",
+      "file": "087-company-087.json"
+    },
+    {
+      "company_id": "088-company-088",
+      "company_name": "微盟",
+      "file": "088-company-088.json"
+    },
+    {
+      "company_id": "089-company-089",
+      "company_name": "有赞",
+      "file": "089-company-089.json"
+    },
+    {
+      "company_id": "090-company-090",
+      "company_name": "微店",
+      "file": "090-company-090.json"
+    },
+    {
+      "company_id": "091-company-091",
+      "company_name": "云账户",
+      "file": "091-company-091.json"
+    },
+    {
+      "company_id": "092-company-092",
+      "company_name": "东方甄选",
+      "file": "092-company-092.json"
+    },
+    {
+      "company_id": "093-company-093",
+      "company_name": "交个朋友",
+      "file": "093-company-093.json"
+    },
+    {
+      "company_id": "094-company-094",
+      "company_name": "值得买",
+      "file": "094-company-094.json"
+    },
+    {
+      "company_id": "095-company-095",
+      "company_name": "什么值得买",
+      "file": "095-company-095.json"
+    },
+    {
+      "company_id": "096-company-096",
+      "company_name": "网易严选",
+      "file": "096-company-096.json"
+    },
+    {
+      "company_id": "097-company-097",
+      "company_name": "返利网",
+      "file": "097-company-097.json"
+    },
+    {
+      "company_id": "098-company-098",
+      "company_name": "蘑菇街",
+      "file": "098-company-098.json"
+    },
+    {
+      "company_id": "099-company-099",
+      "company_name": "寺库",
+      "file": "099-company-099.json"
+    },
+    {
+      "company_id": "100-company-100",
+      "company_name": "转转",
+      "file": "100-company-100.json"
+    },
+    {
+      "company_id": "101-company-101",
+      "company_name": "闲鱼",
+      "file": "101-company-101.json"
+    },
+    {
+      "company_id": "102-company-102",
+      "company_name": "爱奇艺",
+      "file": "102-company-102.json"
+    },
+    {
+      "company_id": "103-company-103",
+      "company_name": "腾讯视频",
+      "file": "103-company-103.json"
+    },
+    {
+      "company_id": "104-company-104",
+      "company_name": "优酷",
+      "file": "104-company-104.json"
+    },
+    {
+      "company_id": "105-tv",
+      "company_name": "芒果TV",
+      "file": "105-tv.json"
+    },
+    {
+      "company_id": "106-company-106",
+      "company_name": "抖音集团",
+      "file": "106-company-106.json"
+    },
+    {
+      "company_id": "107-company-107",
+      "company_name": "火山引擎",
+      "file": "107-company-107.json"
+    },
+    {
+      "company_id": "108-company-108",
+      "company_name": "阿里云",
+      "file": "108-company-108.json"
+    },
+    {
+      "company_id": "109-company-109",
+      "company_name": "腾讯云",
+      "file": "109-company-109.json"
+    },
+    {
+      "company_id": "110-company-110",
+      "company_name": "百度智能云",
+      "file": "110-company-110.json"
+    },
+    {
+      "company_id": "111-company-111",
+      "company_name": "华为云",
+      "file": "111-company-111.json"
+    },
+    {
+      "company_id": "112-company-112",
+      "company_name": "金山云",
+      "file": "112-company-112.json"
+    },
+    {
+      "company_id": "113-company-113",
+      "company_name": "青云科技",
+      "file": "113-company-113.json"
+    },
+    {
+      "company_id": "114-ucloud",
+      "company_name": "UCloud",
+      "file": "114-ucloud.json"
+    },
+    {
+      "company_id": "115-company-115",
+      "company_name": "七牛云",
+      "file": "115-company-115.json"
+    },
+    {
+      "company_id": "116-company-116",
+      "company_name": "又拍云",
+      "file": "116-company-116.json"
+    },
+    {
+      "company_id": "117-company-117",
+      "company_name": "涂鸦智能",
+      "file": "117-company-117.json"
+    },
+    {
+      "company_id": "118-company-118",
+      "company_name": "移远通信",
+      "file": "118-company-118.json"
+    },
+    {
+      "company_id": "119-company-119",
+      "company_name": "乐鑫科技",
+      "file": "119-company-119.json"
+    },
+    {
+      "company_id": "120-company-120",
+      "company_name": "芯原股份",
+      "file": "120-company-120.json"
+    },
+    {
+      "company_id": "121-company-121",
+      "company_name": "寒武纪",
+      "file": "121-company-121.json"
+    },
+    {
+      "company_id": "122-company-122",
+      "company_name": "地平线",
+      "file": "122-company-122.json"
+    },
+    {
+      "company_id": "123-company-123",
+      "company_name": "黑芝麻智能",
+      "file": "123-company-123.json"
+    },
+    {
+      "company_id": "124-company-124",
+      "company_name": "壁仞科技",
+      "file": "124-company-124.json"
+    },
+    {
+      "company_id": "125-company-125",
+      "company_name": "沐曦集成电路",
+      "file": "125-company-125.json"
+    },
+    {
+      "company_id": "126-company-126",
+      "company_name": "燧原科技",
+      "file": "126-company-126.json"
+    },
+    {
+      "company_id": "127-company-127",
+      "company_name": "天数智芯",
+      "file": "127-company-127.json"
+    },
+    {
+      "company_id": "128-company-128",
+      "company_name": "摩尔线程",
+      "file": "128-company-128.json"
+    },
+    {
+      "company_id": "129-company-129",
+      "company_name": "清微智能",
+      "file": "129-company-129.json"
+    },
+    {
+      "company_id": "130-company-130",
+      "company_name": "云天励飞",
+      "file": "130-company-130.json"
+    },
+    {
+      "company_id": "131-company-131",
+      "company_name": "云从科技",
+      "file": "131-company-131.json"
+    },
+    {
+      "company_id": "132-company-132",
+      "company_name": "依图科技",
+      "file": "132-company-132.json"
+    },
+    {
+      "company_id": "133-company-133",
+      "company_name": "第四范式",
+      "file": "133-company-133.json"
+    },
+    {
+      "company_id": "134-company-134",
+      "company_name": "明略科技",
+      "file": "134-company-134.json"
+    },
+    {
+      "company_id": "135-company-135",
+      "company_name": "海天瑞声",
+      "file": "135-company-135.json"
+    },
+    {
+      "company_id": "136-company-136",
+      "company_name": "思特奇",
+      "file": "136-company-136.json"
+    },
+    {
+      "company_id": "137-company-137",
+      "company_name": "奇安信",
+      "file": "137-company-137.json"
+    },
+    {
+      "company_id": "138-company-138",
+      "company_name": "深信服",
+      "file": "138-company-138.json"
+    },
+    {
+      "company_id": "139-company-139",
+      "company_name": "安恒信息",
+      "file": "139-company-139.json"
+    },
+    {
+      "company_id": "140-company-140",
+      "company_name": "绿盟科技",
+      "file": "140-company-140.json"
+    },
+    {
+      "company_id": "141-company-141",
+      "company_name": "知道创宇",
+      "file": "141-company-141.json"
+    },
+    {
+      "company_id": "142-company-142",
+      "company_name": "安芯网盾",
+      "file": "142-company-142.json"
+    },
+    {
+      "company_id": "143-company-143",
+      "company_name": "长亭科技",
+      "file": "143-company-143.json"
+    },
+    {
+      "company_id": "144-company-144",
+      "company_name": "观安信息",
+      "file": "144-company-144.json"
+    },
+    {
+      "company_id": "145-company-145",
+      "company_name": "山石网科",
+      "file": "145-company-145.json"
+    },
+    {
+      "company_id": "146-company-146",
+      "company_name": "迪普科技",
+      "file": "146-company-146.json"
+    },
+    {
+      "company_id": "147-company-147",
+      "company_name": "天融信",
+      "file": "147-company-147.json"
+    },
+    {
+      "company_id": "148-360",
+      "company_name": "360",
+      "file": "148-360.json"
+    },
+    {
+      "company_id": "149-company-149",
+      "company_name": "三六零",
+      "file": "149-company-149.json"
+    },
+    {
+      "company_id": "150-company-150",
+      "company_name": "同盾科技",
+      "file": "150-company-150.json"
+    },
+    {
+      "company_id": "151-company-151",
+      "company_name": "数梦工场",
+      "file": "151-company-151.json"
+    },
+    {
+      "company_id": "152-company-152",
+      "company_name": "星环科技",
+      "file": "152-company-152.json"
+    },
+    {
+      "company_id": "153-pingcap",
+      "company_name": "PingCAP",
+      "file": "153-pingcap.json"
+    },
+    {
+      "company_id": "154-company-154",
+      "company_name": "涛思数据",
+      "file": "154-company-154.json"
+    },
+    {
+      "company_id": "155-oceanbase",
+      "company_name": "OceanBase",
+      "file": "155-oceanbase.json"
+    },
+    {
+      "company_id": "156-company-156",
+      "company_name": "蚂蚁集团",
+      "file": "156-company-156.json"
+    },
+    {
+      "company_id": "157-company-157",
+      "company_name": "京东科技",
+      "file": "157-company-157.json"
+    },
+    {
+      "company_id": "158-company-158",
+      "company_name": "度小满",
+      "file": "158-company-158.json"
+    },
+    {
+      "company_id": "159-company-159",
+      "company_name": "陆金所",
+      "file": "159-company-159.json"
+    },
+    {
+      "company_id": "160-company-160",
+      "company_name": "平安科技",
+      "file": "160-company-160.json"
+    },
+    {
+      "company_id": "161-company-161",
+      "company_name": "众安科技",
+      "file": "161-company-161.json"
+    },
+    {
+      "company_id": "162-company-162",
+      "company_name": "微众银行",
+      "file": "162-company-162.json"
+    },
+    {
+      "company_id": "163-company-163",
+      "company_name": "恒生电子",
+      "file": "163-company-163.json"
+    },
+    {
+      "company_id": "164-company-164",
+      "company_name": "同花顺",
+      "file": "164-company-164.json"
+    },
+    {
+      "company_id": "165-company-165",
+      "company_name": "东方财富",
+      "file": "165-company-165.json"
+    },
+    {
+      "company_id": "166-company-166",
+      "company_name": "雪球",
+      "file": "166-company-166.json"
+    },
+    {
+      "company_id": "167-company-167",
+      "company_name": "理想汽车",
+      "file": "167-company-167.json"
+    },
+    {
+      "company_id": "168-company-168",
+      "company_name": "小鹏汽车",
+      "file": "168-company-168.json"
+    },
+    {
+      "company_id": "169-company-169",
+      "company_name": "蔚来",
+      "file": "169-company-169.json"
+    },
+    {
+      "company_id": "170-company-170",
+      "company_name": "哪吒汽车",
+      "file": "170-company-170.json"
+    },
+    {
+      "company_id": "171-company-171",
+      "company_name": "零跑汽车",
+      "file": "171-company-171.json"
+    },
+    {
+      "company_id": "172-company-172",
+      "company_name": "威马汽车",
+      "file": "172-company-172.json"
+    },
+    {
+      "company_id": "173-company-173",
+      "company_name": "智己汽车",
+      "file": "173-company-173.json"
+    },
+    {
+      "company_id": "174-company-174",
+      "company_name": "飞凡汽车",
+      "file": "174-company-174.json"
+    },
+    {
+      "company_id": "175-company-175",
+      "company_name": "极氪",
+      "file": "175-company-175.json"
+    },
+    {
+      "company_id": "176-company-176",
+      "company_name": "比亚迪",
+      "file": "176-company-176.json"
+    },
+    {
+      "company_id": "177-company-177",
+      "company_name": "宁德时代",
+      "file": "177-company-177.json"
+    },
+    {
+      "company_id": "178-company-178",
+      "company_name": "德赛西威",
+      "file": "178-company-178.json"
+    },
+    {
+      "company_id": "179-company-179",
+      "company_name": "禾赛科技",
+      "file": "179-company-179.json"
+    },
+    {
+      "company_id": "180-company-180",
+      "company_name": "速腾聚创",
+      "file": "180-company-180.json"
+    },
+    {
+      "company_id": "181-company-181",
+      "company_name": "文远知行",
+      "file": "181-company-181.json"
+    },
+    {
+      "company_id": "182-company-182",
+      "company_name": "元戎启行",
+      "file": "182-company-182.json"
+    },
+    {
+      "company_id": "183-autox",
+      "company_name": "AutoX",
+      "file": "183-autox.json"
+    },
+    {
+      "company_id": "184-momenta",
+      "company_name": "Momenta",
+      "file": "184-momenta.json"
+    },
+    {
+      "company_id": "185-company-185",
+      "company_name": "商汤绝影",
+      "file": "185-company-185.json"
+    },
+    {
+      "company_id": "186-company-186",
+      "company_name": "石墨文档",
+      "file": "186-company-186.json"
+    },
+    {
+      "company_id": "187-company-187",
+      "company_name": "飞书",
+      "file": "187-company-187.json"
+    },
+    {
+      "company_id": "188-company-188",
+      "company_name": "钉钉",
+      "file": "188-company-188.json"
+    },
+    {
+      "company_id": "189-company-189",
+      "company_name": "企业微信",
+      "file": "189-company-189.json"
+    },
+    {
+      "company_id": "190-teambition",
+      "company_name": "Teambition",
+      "file": "190-teambition.json"
+    },
+    {
+      "company_id": "191-company-191",
+      "company_name": "幕布",
+      "file": "191-company-191.json"
+    },
+    {
+      "company_id": "192-company-192",
+      "company_name": "语雀",
+      "file": "192-company-192.json"
+    },
+    {
+      "company_id": "193-wps",
+      "company_name": "WPS",
+      "file": "193-wps.json"
+    },
+    {
+      "company_id": "194-company-194",
+      "company_name": "同花顺数据",
+      "file": "194-company-194.json"
+    },
+    {
+      "company_id": "195-company-195",
+      "company_name": "叠纸游戏",
+      "file": "195-company-195.json"
+    },
+    {
+      "company_id": "196-company-196",
+      "company_name": "莉莉丝游戏",
+      "file": "196-company-196.json"
+    },
+    {
+      "company_id": "197-company-197",
+      "company_name": "米哈游",
+      "file": "197-company-197.json"
+    },
+    {
+      "company_id": "198-company-198",
+      "company_name": "鹰角网络",
+      "file": "198-company-198.json"
+    },
+    {
+      "company_id": "199-company-199",
+      "company_name": "光大安石",
+      "file": "199-company-199.json"
+    },
+    {
+      "company_id": "200-company-200",
+      "company_name": "中通云仓",
+      "file": "200-company-200.json"
+    },
+    {
+      "company_id": "201-company-201",
+      "company_name": "云杉数据",
+      "file": "201-company-201.json"
+    },
+    {
+      "company_id": "202-company-202",
+      "company_name": "云迹科技",
+      "file": "202-company-202.json"
+    },
+    {
+      "company_id": "203-company-203",
+      "company_name": "竹间智能",
+      "file": "203-company-203.json"
+    },
+    {
+      "company_id": "204-company-204",
+      "company_name": "深兰科技",
+      "file": "204-company-204.json"
+    },
+    {
+      "company_id": "205-company-205",
+      "company_name": "依图医疗",
+      "file": "205-company-205.json"
+    },
+    {
+      "company_id": "206-company-206",
+      "company_name": "乂学教育",
+      "file": "206-company-206.json"
+    },
+    {
+      "company_id": "207-company-207",
+      "company_name": "亲宝宝",
+      "file": "207-company-207.json"
+    },
+    {
+      "company_id": "208-company-208",
+      "company_name": "小鹅网络",
+      "file": "208-company-208.json"
+    },
+    {
+      "company_id": "209-company-209",
+      "company_name": "喜马拉雅儿童",
+      "file": "209-company-209.json"
+    },
+    {
+      "company_id": "210-company-210",
+      "company_name": "互动百科",
+      "file": "210-company-210.json"
+    },
+    {
+      "company_id": "211-company-211",
+      "company_name": "触宝科技",
+      "file": "211-company-211.json"
+    },
+    {
+      "company_id": "212-company-212",
+      "company_name": "七牛智能",
+      "file": "212-company-212.json"
+    },
+    {
+      "company_id": "213-company-213",
+      "company_name": "云扩科技",
+      "file": "213-company-213.json"
+    },
+    {
+      "company_id": "214-company-214",
+      "company_name": "数字天堂",
+      "file": "214-company-214.json"
+    },
+    {
+      "company_id": "215-company-215",
+      "company_name": "享推科技",
+      "file": "215-company-215.json"
+    },
+    {
+      "company_id": "216-company-216",
+      "company_name": "魔珐科技",
+      "file": "216-company-216.json"
+    },
+    {
+      "company_id": "217-company-217",
+      "company_name": "蜂鸟互动",
+      "file": "217-company-217.json"
+    },
+    {
+      "company_id": "218-company-218",
+      "company_name": "赛可智能",
+      "file": "218-company-218.json"
+    },
+    {
+      "company_id": "219-company-219",
+      "company_name": "影石创新",
+      "file": "219-company-219.json"
+    },
+    {
+      "company_id": "220-company-220",
+      "company_name": "奥比中光",
+      "file": "220-company-220.json"
+    },
+    {
+      "company_id": "221-company-221",
+      "company_name": "逐际动力",
+      "file": "221-company-221.json"
+    },
+    {
+      "company_id": "222-company-222",
+      "company_name": "斯坦德机器人",
+      "file": "222-company-222.json"
+    },
+    {
+      "company_id": "223-company-223",
+      "company_name": "非夕机器人",
+      "file": "223-company-223.json"
+    },
+    {
+      "company_id": "224-company-224",
+      "company_name": "珞石机器人",
+      "file": "224-company-224.json"
+    },
+    {
+      "company_id": "225-company-225",
+      "company_name": "节卡机器人",
+      "file": "225-company-225.json"
+    },
+    {
+      "company_id": "226-company-226",
+      "company_name": "灵动科技",
+      "file": "226-company-226.json"
+    },
+    {
+      "company_id": "227-company-227",
+      "company_name": "梅卡曼德",
+      "file": "227-company-227.json"
+    },
+    {
+      "company_id": "228-company-228",
+      "company_name": "仙工智能",
+      "file": "228-company-228.json"
+    },
+    {
+      "company_id": "229-company-229",
+      "company_name": "越疆科技",
+      "file": "229-company-229.json"
+    },
+    {
+      "company_id": "230-company-230",
+      "company_name": "傲鲨智能",
+      "file": "230-company-230.json"
+    },
+    {
+      "company_id": "231-company-231",
+      "company_name": "云深处科技",
+      "file": "231-company-231.json"
+    },
+    {
+      "company_id": "232-company-232",
+      "company_name": "中科深智",
+      "file": "232-company-232.json"
+    },
+    {
+      "company_id": "233-company-233",
+      "company_name": "觉非科技",
+      "file": "233-company-233.json"
+    },
+    {
+      "company_id": "234-company-234",
+      "company_name": "智行者",
+      "file": "234-company-234.json"
+    },
+    {
+      "company_id": "235-company-235",
+      "company_name": "驭势科技",
+      "file": "235-company-235.json"
+    },
+    {
+      "company_id": "236-company-236",
+      "company_name": "希迪智驾",
+      "file": "236-company-236.json"
+    },
+    {
+      "company_id": "237-company-237",
+      "company_name": "踏歌智行",
+      "file": "237-company-237.json"
+    },
+    {
+      "company_id": "238-company-238",
+      "company_name": "轻舟智航",
+      "file": "238-company-238.json"
+    },
+    {
+      "company_id": "239-company-239",
+      "company_name": "飞步科技",
+      "file": "239-company-239.json"
+    },
+    {
+      "company_id": "240-company-240",
+      "company_name": "均联智行",
+      "file": "240-company-240.json"
+    },
+    {
+      "company_id": "241-company-241",
+      "company_name": "四维图新亿程",
+      "file": "241-company-241.json"
+    },
+    {
+      "company_id": "242-company-242",
+      "company_name": "火花文化",
+      "file": "242-company-242.json"
+    },
+    {
+      "company_id": "243-company-243",
+      "company_name": "哔哩哔哩电竞",
+      "file": "243-company-243.json"
+    },
+    {
+      "company_id": "244-company-244",
+      "company_name": "游戏科学",
+      "file": "244-company-244.json"
+    },
+    {
+      "company_id": "245-company-245",
+      "company_name": "雷霆游戏",
+      "file": "245-company-245.json"
+    },
+    {
+      "company_id": "246-company-246",
+      "company_name": "巨人网络",
+      "file": "246-company-246.json"
+    },
+    {
+      "company_id": "247-company-247",
+      "company_name": "游族网络",
+      "file": "247-company-247.json"
+    },
+    {
+      "company_id": "248-company-248",
+      "company_name": "叠纸网络",
+      "file": "248-company-248.json"
+    },
+    {
+      "company_id": "249-company-249",
+      "company_name": "莉莉丝科技",
+      "file": "249-company-249.json"
+    },
+    {
+      "company_id": "250-company-250",
+      "company_name": "米哈游网络",
+      "file": "250-company-250.json"
+    },
+    {
+      "company_id": "251-company-251",
+      "company_name": "祖龙娱乐",
+      "file": "251-company-251.json"
+    },
+    {
+      "company_id": "252-company-252",
+      "company_name": "完美世界上海",
+      "file": "252-company-252.json"
+    },
+    {
+      "company_id": "253-company-253",
+      "company_name": "盛大游戏",
+      "file": "253-company-253.json"
+    },
+    {
+      "company_id": "254-company-254",
+      "company_name": "绿洲游戏",
+      "file": "254-company-254.json"
+    },
+    {
+      "company_id": "255-company-255",
+      "company_name": "星辉娱乐",
+      "file": "255-company-255.json"
+    },
+    {
+      "company_id": "256-company-256",
+      "company_name": "友塔游戏",
+      "file": "256-company-256.json"
+    },
+    {
+      "company_id": "257-company-257",
+      "company_name": "散爆网络",
+      "file": "257-company-257.json"
+    },
+    {
+      "company_id": "258-company-258",
+      "company_name": "上海幻电",
+      "file": "258-company-258.json"
+    },
+    {
+      "company_id": "259-company-259",
+      "company_name": "极豆科技",
+      "file": "259-company-259.json"
+    },
+    {
+      "company_id": "260-company-260",
+      "company_name": "车右智能",
+      "file": "260-company-260.json"
+    },
+    {
+      "company_id": "261-company-261",
+      "company_name": "联影智能",
+      "file": "261-company-261.json"
+    },
+    {
+      "company_id": "262-company-262",
+      "company_name": "联影医疗",
+      "file": "262-company-262.json"
+    },
+    {
+      "company_id": "263-company-263",
+      "company_name": "微创软件",
+      "file": "263-company-263.json"
+    },
+    {
+      "company_id": "264-company-264",
+      "company_name": "复旦微电子",
+      "file": "264-company-264.json"
+    },
+    {
+      "company_id": "265-company-265",
+      "company_name": "上海电气数字科技",
+      "file": "265-company-265.json"
+    },
+    {
+      "company_id": "266-company-266",
+      "company_name": "沪硅产业",
+      "file": "266-company-266.json"
+    },
+    {
+      "company_id": "267-company-267",
+      "company_name": "上海兆芯",
+      "file": "267-company-267.json"
+    },
+    {
+      "company_id": "268-company-268",
+      "company_name": "芯驰科技",
+      "file": "268-company-268.json"
+    },
+    {
+      "company_id": "269-company-269",
+      "company_name": "芯旺微电子",
+      "file": "269-company-269.json"
+    },
+    {
+      "company_id": "270-company-270",
+      "company_name": "晶晨股份",
+      "file": "270-company-270.json"
+    },
+    {
+      "company_id": "271-company-271",
+      "company_name": "上海贝岭",
+      "file": "271-company-271.json"
+    },
+    {
+      "company_id": "272-company-272",
+      "company_name": "澜起科技",
+      "file": "272-company-272.json"
+    },
+    {
+      "company_id": "273-company-273",
+      "company_name": "紫光展锐",
+      "file": "273-company-273.json"
+    },
+    {
+      "company_id": "274-company-274",
+      "company_name": "翱捷科技",
+      "file": "274-company-274.json"
+    },
+    {
+      "company_id": "275-company-275",
+      "company_name": "芯原微电子",
+      "file": "275-company-275.json"
+    },
+    {
+      "company_id": "276-company-276",
+      "company_name": "安集科技",
+      "file": "276-company-276.json"
+    },
+    {
+      "company_id": "277-company-277",
+      "company_name": "上海瀚讯",
+      "file": "277-company-277.json"
+    },
+    {
+      "company_id": "278-company-278",
+      "company_name": "中微公司",
+      "file": "278-company-278.json"
+    },
+    {
+      "company_id": "279-company-279",
+      "company_name": "华力微电子",
+      "file": "279-company-279.json"
+    },
+    {
+      "company_id": "280-company-280",
+      "company_name": "上海华虹",
+      "file": "280-company-280.json"
+    },
+    {
+      "company_id": "281-company-281",
+      "company_name": "星空联盟科技",
+      "file": "281-company-281.json"
+    },
+    {
+      "company_id": "282-company-282",
+      "company_name": "东方明珠新媒体",
+      "file": "282-company-282.json"
+    },
+    {
+      "company_id": "283-company-283",
+      "company_name": "上海钢联",
+      "file": "283-company-283.json"
+    },
+    {
+      "company_id": "284-company-284",
+      "company_name": "上海寻梦信息",
+      "file": "284-company-284.json"
+    },
+    {
+      "company_id": "285-company-285",
+      "company_name": "五八到家",
+      "file": "285-company-285.json"
+    },
+    {
+      "company_id": "286-company-286",
+      "company_name": "万物新生",
+      "file": "286-company-286.json"
+    },
+    {
+      "company_id": "287-company-287",
+      "company_name": "爱库存",
+      "file": "287-company-287.json"
+    },
+    {
+      "company_id": "288-company-288",
+      "company_name": "小佩网络",
+      "file": "288-company-288.json"
+    },
+    {
+      "company_id": "289-company-289",
+      "company_name": "营销科技",
+      "file": "289-company-289.json"
+    },
+    {
+      "company_id": "290-company-290",
+      "company_name": "微盟上海",
+      "file": "290-company-290.json"
+    },
+    {
+      "company_id": "291-company-291",
+      "company_name": "神策数据",
+      "file": "291-company-291.json"
+    },
+    {
+      "company_id": "292-growingio",
+      "company_name": "GrowingIO",
+      "file": "292-growingio.json"
+    },
+    {
+      "company_id": "293-company-293",
+      "company_name": "明略数据",
+      "file": "293-company-293.json"
+    },
+    {
+      "company_id": "294-company-294",
+      "company_name": "数睿数据",
+      "file": "294-company-294.json"
+    },
+    {
+      "company_id": "295-company-295",
+      "company_name": "星环上海",
+      "file": "295-company-295.json"
+    },
+    {
+      "company_id": "296-company-296",
+      "company_name": "观安上海",
+      "file": "296-company-296.json"
+    },
+    {
+      "company_id": "297-company-297",
+      "company_name": "途虎养车",
+      "file": "297-company-297.json"
+    },
+    {
+      "company_id": "298-company-298",
+      "company_name": "得物上海",
+      "file": "298-company-298.json"
+    },
+    {
+      "company_id": "299-company-299",
+      "company_name": "薇诺娜上海",
+      "file": "299-company-299.json"
+    },
+    {
+      "company_id": "300-company-300",
+      "company_name": "叮咚科技",
+      "file": "300-company-300.json"
+    }
+  ]
+}

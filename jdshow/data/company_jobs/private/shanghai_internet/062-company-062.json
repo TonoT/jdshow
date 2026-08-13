@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "company_id": "062-company-062",
+  "company_name": "猎聘",
+  "company_type": "private",
+  "primary_industry": "shanghai_internet",
+  "industry_tags": [
+    "互联网",
+    "科技",
+    "上海候选"
+  ],
+  "city_focus": "上海",
+  "data_status": "candidate_pending_verification",
+  "official_site_url": null,
+  "company_intro_url": null,
+  "career_url": null,
+  "parser_strategy": [
+    "MANUAL_SUBMISSION"
+  ],
+  "source_notes": "官方官网和招聘入口待逐站核验，不得据此创建真实职位。",
+  "jobs": []
+}
